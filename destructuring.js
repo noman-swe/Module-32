@@ -20,7 +20,10 @@ console.log(address);
 const company = {
     name: 'GP',
     ceo:{id:1, name:'ajmol', food:'fuchka'},
-    web:{work:'website development', employee:'22', framework: 'react'}
+    web:{work:'website development', employee:'22', framework: 'react', tech:{
+        first:'sad', second: 'raki', third:'Third'
+    }
+}
 };
 
 // const work = company.web.work;
@@ -29,8 +32,10 @@ const company = {
 // same here --to solve again in short
 const {work, framework} = company.web;
 const {food} = company.ceo;
+const {third, frist } = company.web.tech;
 
 
 console.log(work);
 console.log(food);
 console.log(framework);
+console.log(third);
