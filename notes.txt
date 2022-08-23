@@ -1,3 +1,17 @@
 const emn ekta type er variable jeta doesn't need to change.
 
 carret usages
+
+/////////////////////////////////
+destructuring
+const company = {
+    name: 'GP',
+    ceo:{id:1, name:'ajmol', food:'fuchka'},
+    web:{work:'website development', employee:'22', framework: 'react', tech:{
+        first:'sad', second: 'raki', third:'Third'
+    }
+}
+};
+
+const {third, frist } = company.web.tech;
+object variable declaration
