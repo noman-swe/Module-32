@@ -18,6 +18,9 @@ object variable declaration
 
 
 
-/////////////////////////
+/////////////map()//////forEach()//////
 //map kaj ses e full akta array return kore but forEach ta kore na
 // if return is not needed in map function then use forEach
+
+///////////filter()///////////////////find()//////////////
+filter array er moddhy element ta k dibe but find just element ta k return dibe. ar sob same;
