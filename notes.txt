@@ -15,3 +15,9 @@ const company = {
 
 const {third, frist } = company.web.tech;
 object variable declaration
+
+
+
+/////////////////////////
+//map kaj ses e full akta array return kore but forEach ta kore na
+// if return is not needed in map function then use forEach
