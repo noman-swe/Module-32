@@ -50,3 +50,28 @@ console.log(salman);
 amirKhan.startSession();
 
 ///////////////////////////////////
+
+Extraaaa Class --Practise---
+-----------------------
+//1. variable declaration let & const where to use;
+
+/* 
+// 2. templete string or caret usages
+a. use variable in templete string.
+b. use object in templete string.
+*/
+/* 
+// 3. arrow function (
+    a. single perameter - will return the number after dividing by 5;
+    b. two perameter - will add two to each number and then multyply the result
+    c. three perameter - will multiply all three parameters 
+    d. two perameter but it will be a multi-line arrow function , will add two to each number then multiply the result;
+
+4. home work - js function vs array function
+5. array of numbers and then map to get each elements multuplied by 5 and must use arrow function
+6. numbers of array - get odd numbers by using filter and arrow function
+7. array of objects like products; use find to get the object with price 5000.
+8. you have an object - now use destructuring to create a simple variable of any property of the object.
+9. you have an array - now use destructing to create a simple or more variable to get the third element of the array in a variable called 'three'.
+10. just write a function with three perameters and the last perameter will hava a default parameter with value 7 and this function will take three perameters and will return the sun of all the three parameters.
+*/
